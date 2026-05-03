@@ -1,4 +1,3 @@
-![Lyric PlayerList Banner](assets/PlayerListP.png)
 
 # 👤 Lyric Player List
 
@@ -12,3 +11,5 @@
 - 💼 Job system display (label, grade, duty)
 - ⚡ Lightweight & optimized (low performance impact)
 - 🎯 Toggle with keybind (configurable)
+
+![Lyric PlayerList Banner](assets/PlayerListP.png)
