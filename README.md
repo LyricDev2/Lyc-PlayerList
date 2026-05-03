@@ -12,4 +12,5 @@
 - ⚡ Lightweight & optimized (low performance impact)
 - 🎯 Toggle with keybind (configurable)
 
+
 ![Lyric PlayerList Banner](assets/PlayerListP.png)
